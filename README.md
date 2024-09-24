@@ -1,0 +1,1 @@
+# derivation-of-six-point-delta-function
